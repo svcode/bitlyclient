@@ -1,5 +1,5 @@
 {
-    "name":         "bitlyclient",
+    "name":         "svcode/bitlyclient",
     "description":  "A module for integration with Bitly service API",
     "type":         "library",
     "license":      "BSD-3-Clause",
